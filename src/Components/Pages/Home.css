@@ -1,0 +1,26 @@
+.allign-text {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 3%;
+  }
+  
+  .button-next {
+    text-transform: none;
+    padding-right: 5px;
+    color: black;
+  }
+  
+  .cards-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .cards-merch {
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .title-icecream{
+      color:black;
+  }

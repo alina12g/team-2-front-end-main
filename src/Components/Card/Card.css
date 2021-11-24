@@ -1,0 +1,26 @@
+.cardSize {
+  width: 455px;
+  height: 480px;
+}
+
+.centerOverlay {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.cardSize,
+.cardOverlay {
+  width: 255px;
+  height: 320px;
+}
+
+@media (min-width: 768px) {
+  .cardSize,
+  .cardOverlay {
+    width: 455px;
+    height: 480px;
+  }
+}

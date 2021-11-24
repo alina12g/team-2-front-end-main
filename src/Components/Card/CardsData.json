@@ -1,0 +1,214 @@
+{
+  "promoCards": [
+    {
+      "id": 1,
+      "image": "src",
+      "title": "ICE Cream & GELATO",
+      "buttonName": "Explore options"
+    },
+    {
+      "id": 2,
+      "image": "src",
+      "title": "DELICIOUS DONUTS",
+      "buttonName": "Explore options"
+    },
+    {
+      "id": 3,
+      "image": "src",
+      "title": "FAMILY / CORPORATE",
+      "buttonName": "Explore options"
+    }
+  ],
+  "topSellingIceCream&Gelato": [
+    {
+      "id": 1,
+      "image": "src",
+      "title": "Pistachio Ice Cream",
+      "description": "Treat yourself to ice cream infused with smooth Bourbon sprinkled with…",
+      "price": "$2,50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 2,
+      "image": "src",
+      "title": "Watermelon Ice Cream",
+      "description": "Treat yourself to ice cream infused with smooth Bourbon sprinkled with…",
+      "price": "$2,50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 3,
+      "image": "src",
+      "title": "Strawberry Ice Cream",
+      "description": "Treat yourself to ice cream infused with smooth Bourbon sprinkled with…",
+      "price": "$2,50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 4,
+      "image": "src",
+      "title": "Watermelon Ice Cream",
+      "description": "Treat yourself to ice cream infused with smooth Bourbon sprinkled with…",
+      "price": "$2,50",
+      "btnText": "Add to basket"
+    }
+  ],
+  "topSellingDonuts": [
+    {
+      "id": 1,
+      "image": "src",
+      "title": "Chocolate Donuts",
+      "description": "Treat yourself to ice cream infused with smooth Bourbon sprinkled with…",
+      "price": "$2,50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 2,
+      "image": "src",
+      "title": "Strawberry Ice Cream",
+      "description": "Treat yourself to ice cream infused with smooth Bourbon sprinkled with…",
+      "price": "$2,50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 3,
+      "image": "src",
+      "title": "Simple Donuts",
+      "description": "Treat yourself to ice cream infused with smooth Bourbon sprinkled with…",
+      "price": "$2,50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 4,
+      "image": "src",
+      "title": "Chocolate Sprinkled Donuts",
+      "description": "Treat yourself to ice cream infused with smooth Bourbon sprinkled with…",
+      "price": "$2,50",
+      "btnText": "Add to basket"
+    }
+  ],
+  "merchandise": [
+    {
+      "id": 1,
+      "image": "src",
+      "title": "Basic T Shirts",
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy",
+      "price": "$2,50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 2,
+      "image": "src",
+      "title": "Simple Mug",
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy",
+      "price": "$2,50",
+      "btnText": "Add to basket"
+    }
+  ],
+  "allDonutsProducts": [
+    {
+      "id": 1,
+      "image": "src",
+      "title": "Vanilla Strawberry Donut",
+      "description": "Treat yourself to donuts infused with smooth Bourbon sprinkled with...",
+      "price": "$ 2.50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 2,
+      "image": "src",
+      "title": "Rose Donuts",
+      "description": "Treat yourself to donuts infused with smooth Bourbon sprinkled with...",
+      "price": "$ 2.50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 3,
+      "image": "src",
+      "title": "Marshmallow Donuts",
+      "description": "Treat yourself to donuts infused with smooth Bourbon sprinkled with...",
+      "price": "$ 2.50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 4,
+      "image": "src",
+      "title": "Paradise Donuts",
+      "description": "Treat yourself to donuts infused with smooth Bourbon sprinkled with...",
+      "price": "$ 2.50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 5,
+      "image": "src",
+      "title": "Cocoa Donuts",
+      "description": "Treat yourself to donuts infused with smooth Bourbon sprinkled with...",
+      "price": "$ 2.50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 6,
+      "image": "src",
+      "title": "Banana Combo Donuts",
+      "description": "Treat yourself to donuts infused with smooth Bourbon sprinkled with...",
+      "price": "$ 2.50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 7,
+      "image": "src",
+      "title": "Chocolate Mix Donuts",
+      "description": "Treat yourself to donuts infused with smooth Bourbon sprinkled with...",
+      "price": "$ 2.50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 8,
+      "image": "src",
+      "title": "Gem Mix Donuts",
+      "description": "Treat yourself to donuts infused with smooth Bourbon sprinkled with...",
+      "price": "$ 2.50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 9,
+      "image": "src",
+      "title": "Toffee Donut",
+      "description": "Treat yourself to donuts infused with smooth Bourbon sprinkled with...",
+      "price": "$ 2.50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 10,
+      "image": "src",
+      "title": "Cake Dough Donuts",
+      "description": "Treat yourself to donuts infused with smooth Bourbon sprinkled with...",
+      "price": "$ 2.50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 11,
+      "image": "src",
+      "title": "Cruise Donuts",
+      "description": "Treat yourself to donuts infused with smooth Bourbon sprinkled with...",
+      "price": "$ 2.50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 12,
+      "image": "src",
+      "title": "Ferrero Donuts",
+      "description": "Treat yourself to donuts infused with smooth Bourbon sprinkled with...",
+      "price": "$ 2.50",
+      "btnText": "Add to basket"
+    },
+    {
+      "id": 13,
+      "image": "src",
+      "title": "Pistachio Ice Cream",
+      "description": "Treat yourself to donuts infused with smooth Bourbon sprinkled with...",
+      "price": "$ 2.50",
+      "btnText": "Add to basket"
+    }
+  ]
+}
